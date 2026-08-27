@@ -1,0 +1,1 @@
+{"version":3,"file":"roundToDecimalPlaces.js","sourceRoot":"","sources":["../../src/benchmark/roundToDecimalPlaces.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,oBAAoB,CAAC,KAAa,EAAE,aAAqB;IACvE,MAAM,UAAU,GAAG,EAAE,IAAI,aAAa,CAAC;IACvC,OAAO,IAAI,CAAC,KAAK,CAAC,KAAK,GAAG,UAAU,CAAC,GAAG,UAAU,CAAC;AACrD,CAAC"}
