@@ -4,8 +4,6 @@
 `maintainVisibleContentPosition.startRenderingFromBottom` 时首批渲染范围和底部补偿偏移，供
 `@song-react/react-native-basic` 统一依赖；其余 API 与 2.3.2 一致。
 
-![FlashList Image](./FlashList.png)
-
 <div align="center">
   <a href="https://shopify.github.io/flash-list/">Website</a> •
   <a href="https://discord.gg/k2gzABTfav">Discord</a> •
